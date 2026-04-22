@@ -77,3 +77,5 @@ The formatting of the results page was updated to improve result visibility.
 The design of the existing results page used box containers for each survey to display results if they exist. The page rendered every box even if there are no results for a particular survey, and the small size of the boxes made the visibility of these results fairly difficult to identify from a glance. 
 
 The change made the page only display the latest results of completed surveys, hiding surveys with no results. Surveys with multiple historical results has a 'view history' button which shows a (modal) pop-up window with historical results. These changes reduces clutter on screen and allows users to focus on one object at a time while viewing. 
+
+this is a test change made from obsidian itself
