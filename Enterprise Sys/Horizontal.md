@@ -1,0 +1,2 @@
+- Horizontal silos are categorized into Planning, Organizing, Staffing, Directing, Coordinating, Reporting and Budgeting (POSDCORB) by Luther Gulick, a set of formal organization functions such as control, management supervision and admin in the late 1930s
+- Classifying organization into departments reflects the breaking of complex tasks into smaller problems that could be assigned to a group of people who can be responsible

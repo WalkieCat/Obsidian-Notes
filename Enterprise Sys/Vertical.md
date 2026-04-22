@@ -1,0 +1,3 @@
+- Diving roles into hierarchical layers such as strategic planning
+- This involves the CEO and President of the org making long-term strategy, mid-level management focuses on issues and execution of policies, while the lower-level management focuses on the day-to-day operations
+- As orgs get bigger they tend to break functions into smaller units and assigning staff to allow them to manage the complexity and specializing in activities to enhance productivity
