@@ -51,4 +51,4 @@ Given these accumulated problems, RIC initiated a formal procurement process to 
 6. Nasrudin, Nurin Izzdhinie & Mohamad, A 2025, ‘Challenges Due to the Reliance on Manual Processes and Human error: the Use of Technology in Companies - UiTM Institutional Repository’, _Uitm.edu.my_, vol. 1, pp. 10–13.
 7. Klaus, H, Rosemann, M & Gable, GG 2000, ‘What Is ERP?’, _Information System Frontiers; New York_, vol. 2, ProQuest, no. 2, pp. 141–162.
 8. Godwin, F 2023, ‘Transformative Power of Enterprise Resource Planning for Small-Scale Industries’, _Journal of Industrial Electronics and Applications_, vol. 2023, SciTechnol, no. 4.
-9. Department of Agriculture, Fisheries and Forestry 2024, _Snapshot of Australian Agriculture 2023 - DAFF_, Agriculture.gov.au.
+9. Department of Agriculture, Fisheries and Forestry 2024, *Snapshot of Australian Agriculture 2023 - DAFF*, Agriculture.gov.au.
