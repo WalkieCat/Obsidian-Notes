@@ -1,0 +1,11 @@
+Overview:
+- More hands-on than reading
+- 2 hour labs focused on doing (CISCO packet tracer things)
+- Assessments contains quiz due wk 3 sunday, infrastructure design report due wk 7 sunday, group infrastructure deployment and testing due wk 11 sunday, post-deployment analysis and reflection due wk 13 sunday
+- Lecturer email: found on university website
+- Group work is expected, group of 2
+- Hands-on labs include
+	- Design and testing VMs and server
+	- Setting up Cisco switches, servers etc.
+	- Deploying basic cybersecurity measures such as firewall, DMZs
+- Aggregate mark of at least 50% and attend at lest 6 out of 8 labs to demonstrate at least 6 to 8 skills 
